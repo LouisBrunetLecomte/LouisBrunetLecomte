@@ -19,7 +19,7 @@
   <a href="https://github.com/LouisBrunetLecomte/LouisBrunetLecomte/blob/main/CV%20ALTERNANCE.pdf">
     <img src="https://img.shields.io/badge/Mon_CV-PDF-ECECEC?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=red" alt="Mon CV PDF" />
   </a>
-  <a href="https://www.linkedin.com/in/louis-brunet-lecomte/">
+  <a href="www.linkedin.com/in/lbl-it/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:brunetlecomtelouis05@gmail.com">
