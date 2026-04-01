@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Alternant Informatique & Cybersécurité (Prévu : 2026-2028)</strong><br>
-  [cite_start]<i>Spécialisé en Réseaux, Systèmes et conformité ISO 27001</i> [cite: 21, 22, 55]
+  <i>Spécialisé en Réseaux, Systèmes et conformité ISO 27001</i> 
 </p>
 
 <p align="center">
