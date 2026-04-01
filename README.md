@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=250&section=header&text=Louis%20Brunet-Lecomte&fontSize=70&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">🛡️ Futur Ingénieur en Cybersécurité | ICS @ CPE Lyon 👋</h1>
+<h1 align="center">Futur Ingénieur en Cybersécurité | ICS @ CPE Lyon</h1>
 
 <p align="center">
   <strong>Alternant Informatique & Cybersécurité (Prévu : 2026-2028)</strong><br>
@@ -26,16 +26,16 @@
 
 ---
 
-### 👤 À propos de moi
+### À propos de moi
 Actuellement en **Cycle Ingénieur ICS à CPE Lyon**, je suis passionné par la défense des systèmes et l'architecture réseau. Fort d'un **BTS SIO (Major d'académie - 17,5/20)**, j'allie rigueur académique et expérience terrain.
 
-- 🚀 **Objectif :** Trouver une alternance pour la période Septembre 2026 - Mai 2028.
-- 🛡️ **Expertise :** Firewalling (Stormshield CSNA), Active Directory, et conformité ISO 27001.
-- 🌍 **Langues :** Français (Natif), Anglais (C1), Italien (B2).
+- **Objectif :** Trouver une alternance pour la période Septembre 2026 - Mai 2028.
+- **Expertise :** Firewalling (Stormshield CSNA), Active Directory, et conformité ISO 27001.
+- **Langues :** Français (Natif), Anglais (C1), Italien (B2).
 
 ---
 
-### 🛠️ Hard Skills & Technologies
+### Hard Skills & Technologies
 
 <p align="center">
   <a href="https://en.cppreference.com/w/c">
@@ -91,7 +91,7 @@ Actuellement en **Cycle Ingénieur ICS à CPE Lyon**, je suis passionné par la 
 
 ---
 
-### 📂 Expériences & Réalisations
+### Expériences & Réalisations
 * **[Module_ICS](https://github.com/LouisBrunetLecomte/Module_ICS)** : Centralisation de mes ressources et projets académiques.
 * **Volvo VNX (Stage)** : Pilotage du programme *BE AWARE* et optimisation cybersécurité.
 * **ABS Groupe (Stage)** : Conformité ISO 27001 et déploiement de solutions Microsoft 365.
@@ -99,7 +99,7 @@ Actuellement en **Cycle Ingénieur ICS à CPE Lyon**, je suis passionné par la 
 
 ---
 
-### 📊 Statistiques & Activité GitHub
+### Statistiques & Activité GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LouisBrunetLecomte&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" alt="Statistiques Globales" />
@@ -117,9 +117,9 @@ Actuellement en **Cycle Ingénieur ICS à CPE Lyon**, je suis passionné par la 
 
 ---
 
-### 🎮 Hobbies
+### Hobbies
 <p align="center">
-  <code>🏉 Rugby & Football</code> • <code>🎯 Tir Sportif</code> • <code>🎣 Pêche & Harpon</code> • <code>✈️ Voyages</code>
+  <code>Rugby & Football</code> • <code>Tir Sportif</code> • <code>Pêche & Harpon</code> • <code>Voyages</code>
 </p>
 
 <p align="center">
