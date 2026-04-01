@@ -84,10 +84,10 @@ Actuellement en **Cycle Ingénieur ICS à CPE Lyon**, je suis passionné par la 
 
 | Domaine | Maîtrise technique |
 | :--- | :--- |
-| **Sécurité** | [cite_start]Stormshield CSNA, ISO 27001, Analyse de vulnérabilités [cite: 7, 55, 56] |
-| **Systèmes** | [cite_start]Debian, Windows Server, Active Directory, GLPI/OCS [cite: 8, 9, 57] |
-| **Réseaux** | [cite_start]Cisco, Apache, DHCP/DNS, Reverse Proxy [cite: 10, 11] |
-| **Dev & Ops** | [cite_start]C, Python, Java, Bash, Docker, SQL (MariaDB/PostgreSQL) [cite: 12, 13, 15, 16] |
+| **Sécurité** | Stormshield CSNA, ISO 27001, Analyse de vulnérabilités |
+| **Systèmes** | Debian, Windows Server, Active Directory, GLPI/OCS |
+| **Réseaux** | Cisco, Apache, DHCP/DNS, Reverse Proxy |
+| **Dev & Ops** | C, Python, Java, Bash, Docker, SQL (MariaDB/PostgreSQL) |
 
 ---
 
