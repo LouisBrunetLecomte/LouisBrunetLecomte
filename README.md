@@ -1,73 +1,52 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=250&section=header&text=Louis%20Brunet-Lecomte&fontSize=70&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<h1 align="center">🛡️ Futur Ingénieur en Cybersécurité | ICS @ CPE Lyon 👋</h1>
+# 🛡️ Parcours Ingénieur : Informatique & Cybersécurité (ICS)
 
 <p align="center">
-  <strong>Alternant Informatique & Cybersécurité (Prévu : 2026-2028)</strong><br>
-  <i>Spécialisé en Réseaux, Systèmes et conformité ISO 27001</i> 
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/louis-brunet-lecomte/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:brunetlecomtelouis05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Ecole-CPE%20Lyon-blue?style=for-the-badge&logo=education" alt="CPE Lyon">
+  <img src="https://img.shields.io/badge/Spécialité-ICS-red?style=for-the-badge&logo=fortinet" alt="Spécialité ICS">
+  <img src="https://img.shields.io/badge/Promo-2024--2027-lightgrey?style=for-the-badge" alt="Promo">
 </p>
 
 ---
 
-### 👤 À propos de moi
-[cite_start]Actuellement en **Cycle Ingénieur ICS à CPE Lyon**[cite: 25, 27], je suis passionné par la défense des systèmes et l'architecture réseau. [cite_start]Fort d'un **BTS SIO (Major d'académie - 17,5/20)**[cite: 29, 31], j'allie rigueur académique et expérience terrain.
+## 📖 Présentation
+Bienvenue sur mon dépôt central de ressources académiques. Ce repository regroupe l'ensemble des travaux, exercices et projets réalisés durant ma formation au sein de la filière **Informatique et Cybersécurité (ICS)** à **CPE Lyon**.
 
-- [cite_start]🚀 **Objectif :** Trouver une alternance pour la période Septembre 2026 - Mai 2028[cite: 20, 23].
-- [cite_start]🛡️ **Expertise :** Firewalling (Stormshield CSNA), Active Directory, et conformité ISO 27001[cite: 7, 8, 55].
-- [cite_start]🌍 **Langues :** Français (Natif), Anglais (C1), Italien (B2)[cite: 44, 45, 46].
+L'objectif de ce projet est de documenter ma progression technique et de maintenir une base de connaissances accessible sur les piliers du développement et de la sécurité.
+
+> [!NOTE]  
+> Ce dépôt est structuré par modules d'enseignement. Il contient du code source, des scripts d'administration et des notes de synthèse.
 
 ---
 
-### 🛠️ Hard Skills & Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,bash,linux,debian,docker,mysql,postgres,github,vscode,debian,networks,windows,vmware" />
-</p>
+## 🛠️ Stack Technologique
 
-| Domaine | Maîtrise technique |
+| Catégorie | Technologies |
 | :--- | :--- |
-| **Sécurité** | [cite_start]Stormshield CSNA, ISO 27001, Analyse de vulnérabilités [cite: 7, 55] |
-| **Systèmes** | [cite_start]Linux (Debian), Windows Server, Active Directory, GLPI [cite: 8, 9] |
-| **Réseaux** | [cite_start]Cisco, Apache, DHCP/DNS, Reverse Proxy [cite: 10, 11] |
-| **Dev & Ops** | [cite_start]C, Python, Java, Docker, SQL, UML, Bash [cite: 12, 13, 17] |
+| **Langages** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| **Système** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Debian](https://img.shields.io/badge/-Debian-A81D33?logo=debian&logoColor=white) |
+| **Outils** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) |
 
 ---
 
-### 📂 Expériences & Réalisations
-* **[Module_ICS](https://github.com/LouisBrunetLecomte/Module_ICS)** : Centralisation de mes ressources et projets académiques.
-* [cite_start]**Volvo VNX (Stage)** : Pilotage du programme *BE AWARE* et optimisation cybersécurité[cite: 35, 51, 52].
-* [cite_start]**ABS Groupe (Stage)** : Conformité ISO 27001 et déploiement de solutions Microsoft 365[cite: 53, 55, 57].
-* [cite_start]**126ème Régiment d'Infanterie** : Préparation Militaire - Gestion du stress et rigueur[cite: 60, 63].
+## 📂 Domaines d'Exploration
+
+### 👨‍💻 Développement Logiciel & Système
+* **C / C++ Avancé** : Gestion de la mémoire vive, manipulation de pointeurs et programmation système.
+* **POO (Java)** : Application des concepts d'encapsulation, d'héritage et des Design Patterns.
+* **Algorithmie** : Structures de données (piles, files, arbres) et optimisation de la complexité.
+
+### 🔐 Cybersécurité & Réseaux
+* **Réseaux** : Modèle OSI, protocoles TCP/IP et analyse de trames avec Wireshark.
+* **Sécurité** : Sensibilisation aux bonnes pratiques de développement sécurisé et protection des données.
+
+### 🐧 Infrastructure & DevOps
+* **Administration Linux** : Gestion des utilisateurs, des permissions et des services système.
+* **Automatisation** : Création de scripts Bash pour optimiser les workflows sous environnement Unix.
 
 ---
 
-### 📊 Statistiques GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LouisBrunetLecomte&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&title_color=0E75B6&icon_color=0E75B6" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisBrunetLecomte&layout=compact&theme=transparent&hide_border=true&title_color=0E75B6" />
-</p>
+## 🚀 Navigation & Utilisation
 
----
-
-### 🎮 Hobbies
-<p align="center">
-  [cite_start]<code>🏉 Rugby & Football</code> • <code>🎯 Tir Sportif</code> • <code>🎣 Pêche & Harpon</code> • <code>✈️ Voyages</code> [cite: 47, 48, 49, 50]
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LouisBrunetLecomte&label=VUES%20PROFIL&color=0e75b6&style=flat-square" alt="LouisBrunetLecomte" />
-</p>
-
-<p align="center">
-  <i>"La sécurité est un processus, pas un produit." — Bruce Schneier</i>
-</p>
+1. **Clonage du dépôt :**
+   ```bash
+   git clone [https://github.com/LouisBrunetLecomte/Module_ICS.git](https://github.com/LouisBrunetLecomte/Module_ICS.git)
