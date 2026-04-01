@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Projet_Pokemon-FFCB05?style=for-the-badge&logo=pokemon&logoColor=3D7AD1" alt="Pokemon Project" />
   </a>
   <a href="https://github.com/LouisBrunetLecomte/LouisBrunetLecomte/blob/main/CV%20ALTERNANCE.pdf">
-    <img src="https://img.shields.io/badge/Mon_CV-PDF-ECECEC?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=red" alt="Mon CV PDF" />
+    <img src="https://img.shields.io/badge/Mon_CV-PDF-ECECEC?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=red" alt="CV" />
   </a>
   <a href="https://www.linkedin.com/in/louis-brunet-lecomte/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
