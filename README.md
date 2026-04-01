@@ -36,16 +36,58 @@ Actuellement en **Cycle Ingénieur ICS à CPE Lyon**, je suis passionné par la 
 ---
 
 ### 🛠️ Hard Skills & Technologies
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,bash,linux,debian,docker,mysql,postgres,github,vscode,debian,networks,windows,vmware" alt="Skills" />
+  <a href="https://en.cppreference.com/w/c">
+    <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://www.oracle.com/java/">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  </a>
+  
+  <a href="https://www.debian.org/">
+    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  </a>
+  <a href="https://www.microsoft.com/windows-server">
+    <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
+  </a>
+  <a href="https://www.vmware.com/">
+    <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+
+  <a href="https://www.stormshield.com/">
+    <img src="https://img.shields.io/badge/Stormshield-E2001A?style=for-the-badge&logo=fortinet&logoColor=white" alt="Stormshield" />
+  </a>
+  <a href="https://www.cisco.com/">
+    <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+  </a>
+  <a href="https://glpi-project.org/">
+    <img src="https://img.shields.io/badge/GLPI-005EAA?style=for-the-badge&logo=target&logoColor=white" alt="GLPI" />
+  </a>
+
+  <a href="https://mariadb.org/">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </a>
 </p>
 
 | Domaine | Maîtrise technique |
 | :--- | :--- |
-| **Sécurité** | Stormshield CSNA, ISO 27001, Analyse de vulnérabilités |
-| **Systèmes** | Linux (Debian), Windows Server, Active Directory, GLPI |
-| **Réseaux** | Cisco, Apache, DHCP/DNS, Reverse Proxy |
-| **Dev & Ops** | C, Python, Java, Docker, SQL, UML, Bash |
+| **Sécurité** | [cite_start]Stormshield CSNA, ISO 27001, Analyse de vulnérabilités [cite: 7, 55, 56] |
+| **Systèmes** | [cite_start]Debian, Windows Server, Active Directory, GLPI/OCS [cite: 8, 9, 57] |
+| **Réseaux** | [cite_start]Cisco, Apache, DHCP/DNS, Reverse Proxy [cite: 10, 11] |
+| **Dev & Ops** | [cite_start]C, Python, Java, Bash, Docker, SQL (MariaDB/PostgreSQL) [cite: 12, 13, 15, 16] |
 
 ---
 
