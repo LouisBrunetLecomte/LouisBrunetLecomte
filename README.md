@@ -102,17 +102,9 @@ Actuellement en **Cycle Ingénieur ICS à CPE Lyon**, je suis passionné par la 
 ### Statistiques & Activité GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LouisBrunetLecomte&show_icons=true&theme=merko&include_all_commits=true&count_private=true&hide_border=true" alt="Statistiques Globales" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisBrunetLecomte&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="Langages les plus utilisés" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LouisBrunetLecomte&theme=merko&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LouisBrunetLecomte&theme=emerald&column=7&margin-w=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
