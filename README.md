@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="[www.linkedin.com/in/lbl-it](https://louisbrunetlecomte.github.io/Portfolio/)">
+  <a href="https://louisbrunetlecomte.github.io/Portfolio/)">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://louisbrunetlecomte.github.io/Pokemon/">
